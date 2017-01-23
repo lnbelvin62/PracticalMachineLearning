@@ -8,6 +8,6 @@ for the project.
 See ExercisePrediction.html for the compiled HTML file produced
 by knitting the ExercisePrediction.Rmd file.
 
-There are two embedded figures:
-FinalModelPlot.png
-Importance.png
+There are two embedded figures:  
+FinalModelPlot.png  
+Importance.png  
